@@ -2,7 +2,7 @@
 
 ![Decorative image.](../Images/14-challenge-image.png)
 
-## Table of Contents:
+### Table of Contents:
 
 1. [Original/Provided Baseline Algorithm](#originalprovided-baseline-algorithm)
 
@@ -13,6 +13,8 @@
 4. [Evaluation](#evaluation)
 
 </br>
+
+---
 
 ### Original/Provided Baseline Algorithm:
 
