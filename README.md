@@ -26,10 +26,6 @@ As part of your GitHub repository’s `README.md` file, you will also create a r
 
 ## Files
 
-Download the following files to help you get started:
-
-[Unit 14 homework files](Starter_Code/Starter_Code.zip)
-
 > **Note:** The provided CSV file contains OHLCV data for an MSCI&ndash;based emerging markets ETF that [iShares](https://www.ishares.com/us/products/268704/ishares-currency-hedged-msci-emerging-markets) issued. Investments in emerging markets make up an important aspect of a well-diversified investment portfolio. This is because the included equities have potentially higher long-term returns, even though they carry more risk.
 
 ## Instructions
@@ -91,16 +87,6 @@ In this section, you’ll use the original parameters that the starter code prov
 ### Create an Evaluation Report
 
 In the previous sections, you updated your `README.md` file with your conclusions. To accomplish this section, you need to add a summary evaluation report at the end of the `README.md` file. For this report, express your final conclusions and analysis. Support your findings by using the PNG images that you created.
-
----
-
-## Submission
-
-* Use the started code provided to create the machine learning trading bot and host the notebook and the required files.
-
-* Include a `README.md` file with your conclusions as requested.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
 
 ---
 
