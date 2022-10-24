@@ -12,9 +12,9 @@
 
 4. [Evaluation](#evaluation)
 
-</br>
-
 ---
+
+</br>
 
 ### Original/Provided Baseline Algorithm:
 
