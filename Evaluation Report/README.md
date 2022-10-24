@@ -2,6 +2,17 @@
 
 ![Decorative image.](../Images/14-challenge-image.png)
 
+## Table of Contents:
+
+1. [Original/Provided Baseline Algorithm](#originalprovided-baseline-algorithm)
+
+2. [Tuned Baseline Algorithm:](#tuned-baseline-algorithm)
+
+3. [Multi-layer Perceptron (MLP) Algorithm:](#multi-layer-perceptron-mlp-algorithm)
+
+4. [Evaluation](#evaluation)
+
+</br>
 
 ### Original/Provided Baseline Algorithm:
 
@@ -72,11 +83,11 @@
 </p>
 
 ### Evaluation:
+  
+* The MLP algorithm with Stochastic Gradient Descent (SGD), which belongs in the class of feedforward artifical neural networks, was chosen due to its ability to minimize the cost function, which in this case would be -1 or "sell". If the model determines an exit point incorrectly it can cost the investor highly, which is why we want a model that can identify "buys" better than being able to identify when to "sell".
 
 * Looking back at the models we can conclude that the Multilayer Perceptron (MLP) model performed the best because it generated an extremely high recall score (99%) for the buying target which indicates that the model will determine when to buy very well.
   
 * Looking at the MLP cumulative return plot, we can see that the strategy returns are much closer to the actual returns compared to the other models. This could indicate that the model is "learning" from the data and predicted quite accurately.
-  
-* The MLP algorithm with Stochastic Gradient Descent (SGD), which belongs in the class of feedforward artifical neural networks, was chosen due to its ability to minimize the cost function, which in this case would be -1 or "sell". If the model determines an exit point incorrectly it can cost the investor highly, which is why we want a model that can identify "buys" better than being able to identify when to "sell".
 
 ---
